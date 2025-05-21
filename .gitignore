@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -40,3 +41,47 @@
 *.filters
 *.user
  HelloWorld/.vs
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*/Debug
+*/*/Debug
+*/.vs
+*/Release
+*/Bin
+*/Win32
+*.filters
+*.user
+ HelloWorld/.vs
+>>>>>>> 37dab7599a4bf0e0d86d7bed5dce75cc3bf4e6ec
