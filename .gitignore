@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+*/Debug
+*/*/Debug
+*/.vs
+*/Release
+*/Bin
+*/Win32
+*.filters
+*.user
+ HelloWorld/.vs
